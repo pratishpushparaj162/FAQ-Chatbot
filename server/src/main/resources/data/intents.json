@@ -1,0 +1,41 @@
+{
+  "GREETING": [
+    "hello",
+    "hi",
+    "hey",
+    "yo",
+    "good morning",
+    "good evening",
+    "hey there",
+    "hi there",
+    "hello there",
+    "morning",
+    "evening"
+  ],
+  "GOODBYE": [
+    "bye",
+    "goodbye",
+    "see you",
+    "see ya",
+    "catch you later",
+    "talk later"
+  ],
+  "THANKS": [
+    "thanks",
+    "thank you",
+    "thx",
+    "tysm",
+    "appreciate it"
+  ],
+  "SMALLTALK": [
+    "what's up",
+    "how are you",
+    "how\u2019s it going",
+    "what are you doing",
+    "tell me a joke",
+    "i'm bored",
+    "sing me a song",
+    "chat with me",
+    "talk to me"
+  ]
+}
