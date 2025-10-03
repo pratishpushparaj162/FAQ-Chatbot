@@ -31,17 +31,17 @@ Open the URL that prints in the terminal (usually `http://localhost:5173`).
 
 > The frontend is configured to call `http://localhost:8080` — CORS is enabled on the backend.
 
-## Project Structure
+## Project Structure 
 ```
 java-react-chatbot/
   server/        # Spring Boot API
   client/        # React UI (Vite)
 ```
 
-## API
+## API 
 **POST** `/api/chat/message`
 
-Request:
+Request :
 ```json
 { "sessionId": "abc123", "message": "What are your store hours?" }
 ```
