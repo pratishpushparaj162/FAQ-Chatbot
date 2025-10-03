@@ -10,5 +10,5 @@ export default function SourceBadge({ source }) {
     error: 'Error'
   }[source] || source
 
-  return <span className="badge">{label}</span>
+  return <span className="badge">{label}</span> 
 }
