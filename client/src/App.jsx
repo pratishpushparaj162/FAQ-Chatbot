@@ -18,7 +18,7 @@ export default function App() {
     listRef.current?.scrollTo({ top: listRef.current.scrollHeight, behavior: 'smooth' })
   }, [messages])
 
-  async function send() {
+  async function send() { 
     const msg = text.trim()
     if (!msg) return
     setLoading(true)
