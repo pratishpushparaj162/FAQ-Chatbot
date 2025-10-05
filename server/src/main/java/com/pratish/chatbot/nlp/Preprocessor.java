@@ -3,7 +3,7 @@ package com.pratish.chatbot.nlp;
 import java.text.Normalizer;
 import java.util.*;
 import java.util.regex.Pattern;
-
+ 
 public class Preprocessor {
     private static final Pattern NON_ALNUM = Pattern.compile("[^a-z0-9\s]");
     private static final Set<String> STOP = new HashSet<>(Arrays.asList(
