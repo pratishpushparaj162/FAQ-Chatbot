@@ -5,7 +5,7 @@ public class ChatResponse {
     private String source;
     private double confidence;
     private String intent;
-
+ 
     public ChatResponse() {}
 
     public ChatResponse(String reply, String source, double confidence, String intent) {
