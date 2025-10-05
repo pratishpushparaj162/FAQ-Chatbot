@@ -1,5 +1,5 @@
 package com.pratish.chatbot.nlp;
-
+  
 public enum IntentLabel {
     GREETING,
     GOODBYE,
