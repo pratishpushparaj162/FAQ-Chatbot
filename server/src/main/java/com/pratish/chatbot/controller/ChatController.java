@@ -6,7 +6,7 @@ import com.pratish.chatbot.service.ChatService;
 import jakarta.validation.Valid;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
-
+ 
 @RestController
 @RequestMapping("/api/chat")
 @CrossOrigin(origins = {"http://localhost:5173", "http://127.0.0.1:5173"})
